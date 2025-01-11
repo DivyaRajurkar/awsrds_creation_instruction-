@@ -12,6 +12,9 @@
 7. Click **Create Database**  
 
 ---
+**common Steps:**
+1. Navigate to: `aws => rsd => database => name_mysql_db => Connectivity & security => Security => VPC security groups`
+2. Edit inbound rule: Add port no anywhere `0.0.0.0`
 
 ## RDS MSSQL Database Creation (No. 4)
 1. Navigate to: `RDS => Database`
